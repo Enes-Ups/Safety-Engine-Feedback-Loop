@@ -40,7 +40,7 @@
             "celery>=5.5.2",
             "sqlalchemy>=2.0.40",
             "psycopg2-binary>=2.9.9",
-            "upsonic==0.69.1",
+            "upsonic==0.69.1a1766049382",
             "pytz>=2025.2",
             "psutil>=5.9.8",
             "fire>=0.7.0",
